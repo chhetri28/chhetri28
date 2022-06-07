@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhetri28&label=Profile%20views&color=0e75b6&style=flat" alt="chhetri28" /> </p>
 
-- 🔭 I’m currently working on [on small project Data Strucutre & Algorithms Visualizer](https://github.com/chhetri28/JS_learning)
+- 🔭 I’m currently working on [on small project Data Structure  & Algorithms Visualizer](https://github.com/chhetri28/JS_learning)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
